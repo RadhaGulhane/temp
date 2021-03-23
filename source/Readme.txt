@@ -10,3 +10,4 @@ this is new branch_ trying rebase
 
 this is some changes after pull request
 
+new changes added
