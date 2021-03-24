@@ -13,9 +13,9 @@ this is some changes after pull request
 new changes added
 
 new changes added2
-new changes added3 by master after pull
-new changes added4 by master after pull
-new changes added5 by master after pull
+new changes added3.1 by master after pull
+new changes added4.1 by master after pull
+new changes added5.1 by master after pull
 comit 5
 commit 6 
 commit 6.1
